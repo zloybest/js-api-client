@@ -1,0 +1,15 @@
+{
+  "name": "js-api-client",
+  "version": "0.0.1",
+  "description": "Simple JS API client module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir Kudryavcev",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zloybest/js-api-client"
+  }
+}
